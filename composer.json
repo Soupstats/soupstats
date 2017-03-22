@@ -1,0 +1,15 @@
+{
+  "name": "soupstats/soupstats",
+  "description": " soupstats.io website ",
+  "minimum-stability": "unstable",
+  "license": "MIT License",
+  "authors": [
+    {
+      "name": "soulflyman",
+      "email": "soupstats@no-spam4.me"
+    }
+  ],
+  "require": {
+    "tedivm/jshrink": "v1.1.0"
+  }
+}

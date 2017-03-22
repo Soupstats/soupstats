@@ -1,0 +1,3 @@
+[submodule "soup-enhancement"]
+	path = soup-enhancement
+	url = https://github.com/Soupstats/soup-enhancement.git
